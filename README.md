@@ -1,2 +1,3 @@
-This repository contains the code for my master thesis titled "Multilingual hate speech detection in German, Italian and Spanish Social Media Posts". 
-If you use any of the code, please reference it accordingly. 
+This repository contains a culmination of my master's thesis work, featuring six distinct models designed specifically for detecting hate speech in German, Italian, and Spanish social media posts. 
+If you use the code, please refer and cite this repository.  
+
